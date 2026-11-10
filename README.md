@@ -3,7 +3,7 @@
 <h1 align="center">AnyFly · 未见之地</h1>
 <p align="center">A world to explore.</p>
 <p align="center">Official access · Client downloads · Release updates</p>
-<p align="center">[English](README.md) | [简体中文](README.zh-CN.md)</p>
+<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></p>
 
 ---
 

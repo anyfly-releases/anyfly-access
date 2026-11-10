@@ -4,7 +4,7 @@
 <p align="center">世界很大，任你探索。</p>
 <p align="center">官方入口 · 客户端获取 · 版本更新</p>
 
-<p align="center">[English](README.md) | [简体中文](README.zh-CN.md)</p>
+<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></p>
 
 ---
 
