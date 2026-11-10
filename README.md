@@ -1,39 +1,44 @@
-<p align="center"><img src="assets/anyfly-mark.svg" width="88" alt="AnyFly 未见之地"></p>
+<p align="center"><img src="assets/anyfly-mark.svg" width="88" alt="AnyFly"></p>
 
 <h1 align="center">AnyFly · 未见之地</h1>
-<p align="center">世界很大，任你探索。</p>
-<p align="center">官方入口 · 客户端获取 · 版本更新</p>
+<p align="center">A world to explore.</p>
+<p align="center">Official access · Client downloads · Release updates</p>
+<p align="center">[English](README.md) | [简体中文](README.zh-CN.md)</p>
 
 ---
 
-## 从这里，继续出发
+## Start your next journey here
 
-这里是 **AnyFly 未见之地** 的官方入口项目，集中公布最新访问入口、客户端获取方式和版本更新信息。将本页加入收藏，需要时便能找到新的出发点。
+This is the official access repository for **AnyFly · 未见之地**, bringing together the latest access address, client downloads, and release information. Bookmark this page so you can find your way back when you need it.
 
-### 最新访问入口
+### Latest access address
 
-**[访问 AnyFly 未见之地](https://link.zhihu.com/?target=https%3A%2F%2Fanyfly.net)**
+**[Visit AnyFly](https://link.zhihu.com/?target=https%3A%2F%2Fanyfly.net)**
 
-当前入口：`https://anyfly.net`
+Current address: `https://anyfly.net`
 
-入口通过知乎外链提示页打开；确认目标地址后，选择“继续访问”。入口变更时，本项目会同步更新。
+The link opens through Zhihu's external-link notice. Check the destination address, then select “继续访问” (Continue). This repository will be updated when the access address changes.
 
-### 入口站
+### Access site
 
-**[打开 AnyFly 未见之地入口站](https://anyfly-releases.github.io/anyfly-access/)**
+**[Open the AnyFly access site](https://anyfly-releases.github.io/anyfly-access/)**
 
-一个更便于浏览和收藏的页面，同样提供最新入口与客户端发布信息。
+A page designed for easy browsing and bookmarking, with the same latest access address and client release information.
 
-### 获取桌面客户端
+### Get the desktop client
 
-前往 **[AnyFly Desktop 官方发布页](https://github.com/anyfly-releases/anyfly-desktop/releases/latest)**，选择适合 macOS、Windows 或 Linux 的安装包。每个正式版本提供校验文件和签名更新资源。
+Visit the **[official AnyFly Desktop releases](https://github.com/anyfly-releases/anyfly-desktop/releases/latest)** and choose an installer for macOS, Windows, or Linux. Each official release includes checksums and signed updater artifacts.
 
-### 关于 AnyFly 未见之地
+### Get the Android client
 
-AnyFly 未见之地，希望让连接世界这件事更从容。这个项目是一个公开的信息入口：无需登录即可查看访问地址和发布信息。账户及相关操作请通过上方最新入口完成。
+Visit the **[official AnyFly Android releases](https://github.com/anyfly-releases/anyfly-android/releases/latest)** and download the APK for your device's architecture. Choose `universal` if you are unsure which architecture to use.
 
-请以本组织公布的入口与客户端发布信息为准。
+### About AnyFly
+
+AnyFly aims to make connecting with the world feel effortless. This repository is a public information hub: you can view access addresses and release information without signing in. For account-related actions, use the latest access address above.
+
+Please rely on the access addresses and client release information published by this organization.
 
 ---
 
-<p align="center">AnyFly · 未见之地<br>山海之外，仍有新的风景。</p>
+<p align="center">AnyFly · 未见之地<br>Beyond the horizon, new sights await.</p>
