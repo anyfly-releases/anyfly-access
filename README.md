@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/anyfly-mark.svg" width="88" alt="AnyFly"></p>
-
 <h1 align="center">AnyFly · 未见之地</h1>
 <p align="center">A world to explore.</p>
 <p align="center">Official access · Client downloads · Release updates</p>
@@ -18,12 +16,6 @@ This is the official access repository for **AnyFly · 未见之地**, bringing 
 Current address: `https://anyfly.net`
 
 The link opens through Zhihu's external-link notice. Check the destination address, then select “继续访问” (Continue). This repository will be updated when the access address changes.
-
-### Access site
-
-**[Open the AnyFly access site](https://anyfly-releases.github.io/anyfly-access/)**
-
-A page designed for easy browsing and bookmarking, with the same latest access address and client release information.
 
 ### Get the desktop client
 

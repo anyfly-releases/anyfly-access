@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/anyfly-mark.svg" width="88" alt="AnyFly 未见之地"></p>
-
 <h1 align="center">AnyFly · 未见之地</h1>
 <p align="center">世界很大，任你探索。</p>
 <p align="center">官方入口 · 客户端获取 · 版本更新</p>
@@ -19,12 +17,6 @@
 当前入口：`https://anyfly.net`
 
 入口通过知乎外链提示页打开；确认目标地址后，选择“继续访问”。入口变更时，本项目会同步更新。
-
-### 入口站
-
-**[打开 AnyFly 未见之地入口站](https://anyfly-releases.github.io/anyfly-access/)**
-
-一个更便于浏览和收藏的页面，同样提供最新入口与客户端发布信息。
 
 ### 获取桌面客户端
 
